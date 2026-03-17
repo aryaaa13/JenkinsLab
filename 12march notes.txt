@@ -1,0 +1,5 @@
+12/03/26
+
+Project 1: created vpc and subnet post creating ec2
+
+project 2: create instance with the help of prev vpc and subnet
